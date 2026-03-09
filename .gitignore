@@ -1,0 +1,25 @@
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+venv/
+.env/
+.venv/
+
+# environment variables
+.env
+.env.*
+
+# jupyter
+.ipynb_checkpoints/
+
+# editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
