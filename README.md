@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Python para consultar informações climáticas de qualquer cidade utilizando a API do OpenWeatherMap. O usuário informa o nome da cidade e recebe dados de temperatura atual e condição do clima.
 
-## 📚 Tecnologias e bibliotecas utilizadas
+## 🛠️ Tecnologias e bibliotecas utilizadas
 
 - Python
 - Requests (para requisições HTTP)
@@ -33,9 +33,11 @@ python -m venv venv
 ### 4. Ativar o ambiente virtual
 
 **Windows**
+
 venv\Scripts\activate
 
 **Linux / Mac**
+
 source venv/bin/activate
 
 ### 5. Instalar dependências
